@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KingBenice's Portfolio</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+      <header className="text-center py-10">
+        <Image
+          src="C:\Users\kingb\OneDrive\Documents\My Portfolio Web\portfolio-web\src\assets\images\profile.jpg"
+          alt="Profile Picture"
+          width={150}
+          height={150}
+          className="rounded-full mx-auto"
+        />
+        <h1 className="text-4xl font-bold mt-4">KingBenice's Portfolio</h1>
+        <p className="text-gray-400">Full-Stack Developer | Open Source Enthusiast | Designer | Tech Support Specialist  | Tech Enthusiast</p>
+      </header>
+      
+      <section className="mt-10">
+        <h2 className="text-2xl font-semibold">Skills</h2>
+       
+                
+                <hr>
+              </div>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-semibold">Interest</h2>
+       
+                
+                <hr>
+              </div>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-2xl font-semibold">Projects</h2>
+       
+                <a
+                  href=https://github.com/KingBenice>
+                  View on GitHub
+                </a>
+                <hr>
+              </div>
+      </section>
+
+      <footer className="text-center mt-10 text-gray-500">
+        <p>Made with ❤️ by KingBenice</p>
+        <p>
+          <a href={`mailto:${githubUsername}@example.com`} className="text-blue-400 hover:underline">Email</a> |
+          <a href={`https://github.com/${githubUsername}`} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline"> GitHub</a>
+        </p>
+      </footer>
+    </div>
+    <div id="root"></div>
+    <script src="assets/js/scripts.js"></script>
+</body>
+</html>
