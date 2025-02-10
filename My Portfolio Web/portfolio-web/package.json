@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-web",
+  "version": "1.0.0",
+  "description": "A personal portfolio web application to showcase projects and skills.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build script not defined'",
+    "test": "echo 'Test script not defined'"
+  },
+  "keywords": [
+    "portfolio",
+    "web",
+    "react",
+    "javascript"
+  ],
+  "author": "KingBenice",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
