@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @KingBenice
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- call me on +2348147305965
+- 👋 Hi, I’m @KingBenice,
+- 👀 I’m interested in Designing and Development,
+- 🌱 I’m currently learning, still learning and won't stop learning,
+- 💞️ I’m looking to collaborate on various project both paid and un paid project.
+- 📫 How to reach me via my mail
 ...
 
 <!---
